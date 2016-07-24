@@ -19,7 +19,6 @@ import java.io.OutputStream;
 import javax.imageio.ImageIO;
 
 import org.apache.commons.io.IOUtils;
-import org.apache.commons.math3.exception.MathArithmeticException;
 
 import com.yil.seal.util.Constants;
 
@@ -165,5 +164,4 @@ public class Circle {
 		}
 
 	}
-
 }
