@@ -1,4 +1,4 @@
-package com.yil.seal;
+package com.yil.seal.third;
 
 import java.awt.image.BufferedImage;
 import java.io.File;

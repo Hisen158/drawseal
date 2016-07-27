@@ -1,4 +1,4 @@
-package com.tentinet.diver.seal.model;
+package com.yil.seal.third.tentinet;
 
 import javax.imageio.ImageIO;
 

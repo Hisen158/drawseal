@@ -1,4 +1,4 @@
-package com.tentinet.diver.seal.model;
+package com.yil.seal.third.tentinet;
 
 import java.util.Date;
 
